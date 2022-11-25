@@ -1,5 +1,8 @@
 confeitaria {
     text-align:center ;
-    width: 100%; ;
-    height: 50%;
+}
+
+img{
+    width:100px;
+    height: 50px;
 }
